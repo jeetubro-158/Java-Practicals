@@ -23,6 +23,7 @@ public class p7q4 extends JFrame implements ActionListener, ListSelectionListene
 
         setLayout(new GridLayout(2, 1));
         add(p1);
+        add(ta);
         
         setSize(700, 700);
         setVisible(true);
